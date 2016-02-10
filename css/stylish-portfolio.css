@@ -41,6 +41,12 @@ body {
     opacity: 0.3;
 }
 
+.footpic {
+    width: 25%;
+    height: auto;
+    opacity: 0.3;
+}
+
 /* Custom Button Styles */
 
 .btn-dark {
